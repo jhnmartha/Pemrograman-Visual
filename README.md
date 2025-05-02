@@ -9,8 +9,8 @@ Weather adalah sebuah sistem yang dibuat menggunakan Visual Studio dengan .NET C
   #### Instalasi
   Install Visual Studio di PC Anda, kemudian jalankan file "weatherTrail.sln" yang terdapat dalam folder "WeatherTrail".
   #### Database
-  1. Jalankan server database lokal seperti WAMP, XAMPP, dll.
-  2. Buat database dengan nama "users" dan impor file SQL yang disediakan ke dalam database tersebut.
-  3. Hubungkan database tersebut dari Visual Studio ke server Anda.
+  - Jalankan server database lokal seperti WAMP, XAMPP, dll.
+  - Buat database dengan nama "users" dan impor file SQL yang disediakan ke dalam database tersebut.
+  - Hubungkan database tersebut dari Visual Studio ke server Anda.
   #### API
   Kunci API yang digunakan sudah tersedia. Namun, jika kunci API tersebut tidak aktif, Anda dapat membuat kunci API Anda sendiri melalui host dan menggantinya.
