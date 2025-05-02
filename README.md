@@ -5,7 +5,7 @@ Weather adalah sebuah sistem yang dibuat menggunakan Visual Studio dengan .NET C
 - REGISTER Form: 
   Form ini muncul setelah pengguna mengklik opsi signup di form pengguna. Form ini berisi kolom-kolom detail untuk pengguna memasukkan data mereka, yang akan disimpan setelah tombol "Create Account" diklik.
 - WEATHER Form: 
-  Form ini muncul setelah pengguna memasukkan username dan password yang benar. Form cuaca ini menampilkan detail ramalan cuaca, termasuk informasi cuaca saat ini dan cuaca mingguan. Selain itu, informasi astronomi juga ditampilkan. Opsi terakhir adalah untuk mengekspor detail cuaca ke dalam file Excel.
+  Form ini muncul setelah pengguna memasukkan username dan password yang benar. Form cuaca ini menampilkan detail ramalan cuaca, termasuk informasi cuaca saat ini dan cuaca mingguan. Selain itu, informasi astronomi juga ditampilkan.
   #### Instalasi
   Install Visual Studio di PC Anda, kemudian jalankan file "weatherTrail.sln" yang terdapat dalam folder "WeatherTrail".
   #### Database
