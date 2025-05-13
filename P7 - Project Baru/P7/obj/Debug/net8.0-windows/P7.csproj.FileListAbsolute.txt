@@ -1,0 +1,68 @@
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.dashboard.resources
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.Properties.Resources.resources
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.Transaksi.resources
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.csproj.GenerateResource.cache
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.AssemblyInfoInputs.cache
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.AssemblyInfo.cs
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.csproj.CoreCompileInputs.cache
+C:\Users\Martha Bagas\Documents\P7\P7\bin\Debug\net8.0-windows\P7.exe
+C:\Users\Martha Bagas\Documents\P7\P7\bin\Debug\net8.0-windows\P7.deps.json
+C:\Users\Martha Bagas\Documents\P7\P7\bin\Debug\net8.0-windows\P7.runtimeconfig.json
+C:\Users\Martha Bagas\Documents\P7\P7\bin\Debug\net8.0-windows\P7.dll
+C:\Users\Martha Bagas\Documents\P7\P7\bin\Debug\net8.0-windows\P7.pdb
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.dll
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\refint\P7.dll
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.pdb
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\P7.genruntimeconfig.cache
+C:\Users\Martha Bagas\Documents\P7\P7\obj\Debug\net8.0-windows\ref\P7.dll
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.AssemblyReference.cache
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Dashboard.resources
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Properties.Resources.resources
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Transaksi.resources
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.GenerateResource.cache
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.AssemblyInfoInputs.cache
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.AssemblyInfo.cs
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.CoreCompileInputs.cache
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.dll
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\refint\P7.dll
+C:\Users\Bagas\OneDrive\Dokumen\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.pdb
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\P7.exe
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\P7.deps.json
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\P7.runtimeconfig.json
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\P7.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\P7.pdb
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\P7 - Copy\P7\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.AssemblyReference.cache
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Dashboard.resources
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Properties.Resources.resources
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.Transaksi.resources
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.GenerateResource.cache
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.GeneratedMSBuildEditorConfig.editorconfig
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.AssemblyInfoInputs.cache
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.AssemblyInfo.cs
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.CoreCompileInputs.cache
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.csproj.Up2Date
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.dll
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\refint\P7.dll
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.pdb
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\P7.genruntimeconfig.cache
+C:\P7 - Copy\P7\obj\Debug\net8.0-windows\ref\P7.dll
