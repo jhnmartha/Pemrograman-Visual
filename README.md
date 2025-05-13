@@ -1,4 +1,4 @@
-### Aplikasi Manajemen Keuangan
+### Aplikasi Manajemen Keuangan ###
 Aplikasi ini bertujuan untuk memudahkan pengelolaan keuangan pribadi dengan fitur pencatatan pemasukan dan pengeluaran. Aplikasi ini memungkinkan pengguna untuk memantau saldo, melihat total pemasukan dan pengeluaran, serta menampilkan grafik keuangan secara real-time.
 
 #### Fitur-fitur Aplikasi
