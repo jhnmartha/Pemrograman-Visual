@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\P7 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\transaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\transaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|c:\\p7 - copy\\p7\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D510B68-685E-4613-9FF6-D7EA4BC321E5}|P7\\P7.csproj|solutionrelative:p7\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaksi.Designer.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Transaksi.Designer.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Transaksi.Designer.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Transaksi.Designer.cs",
+              "RelativeToolTip": "P7\\View\\Transaksi.Designer.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAYwFwBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:56:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Transaksi.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Transaksi.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Transaksi.cs",
+              "RelativeToolTip": "P7\\View\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:56:01.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaksi.cs [Design]",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Transaksi.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Transaksi.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Transaksi.cs [Design]",
+              "RelativeToolTip": "P7\\View\\Transaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:55:59.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Dashboard.Designer.cs",
+              "RelativeToolTip": "P7\\View\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAYwEcBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:55:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Dashboard.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Dashboard.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Dashboard.cs",
+              "RelativeToolTip": "P7\\View\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:54:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Dashboard.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Dashboard.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Dashboard.cs [Design]",
+              "RelativeToolTip": "P7\\View\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:54:52.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Register.Designer.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Register.Designer.cs",
+              "RelativeToolTip": "P7\\View\\Register.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:54:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Register.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Register.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Register.cs",
+              "RelativeToolTip": "P7\\View\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:53:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Register.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Register.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Register.cs [Design]",
+              "RelativeToolTip": "P7\\View\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:53:33.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Login.Designer.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Login.Designer.cs",
+              "RelativeToolTip": "P7\\View\\Login.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:52:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Login.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Login.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Login.cs",
+              "RelativeToolTip": "P7\\View\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:52:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\P7 - Copy\\P7\\View\\Login.cs",
+              "RelativeDocumentMoniker": "P7\\View\\Login.cs",
+              "ToolTip": "C:\\P7 - Copy\\P7\\View\\Login.cs [Design]",
+              "RelativeToolTip": "P7\\View\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:52:25.449Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
